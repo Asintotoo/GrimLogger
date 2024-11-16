@@ -2,7 +2,7 @@
 Store GrimAC's logs into a Database with GrimLogger
 
 ## What is it?
-GrimLogger is a simple plugin which uses [GrimAPI](https://github.com/GrimAnticheat/GrimAPI) to store [GrimAC](https://github.com/GrimAnticheat/Grim) logs into a Database, allowing server administrators to see all the anticheat flag fired by a player with the use of simple command.
+GrimLogger is a simple plugin which uses [GrimAPI](https://github.com/GrimAnticheat/GrimAPI) to store [GrimAC](https://github.com/GrimAnticheat/Grim) logs into a Database, allowing server administrators to see all the anticheat flags fired by a player with the use of simple command.
 
 
 ## Commands & Permissions
