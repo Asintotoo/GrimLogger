@@ -1,0 +1,17 @@
+database:
+  # sqlite | mysql | mongodb
+  type: "sqlite"
+  database-name: "storage"
+  ip-address: "localhost"
+  port: 3306
+  user: "root"
+  password: ""
+  collection: "grimlog" # Only for MongoDB
+
+log:
+  entry-per-page: 10
+
+date:
+  format: "yyyy-MM-dd HH:mm:ss"
+
+server-name: "Global"
