@@ -1,7 +1,0 @@
-name: GrimLogger
-version: '1.0.0'
-main: com.asintoto.grimlogger.GrimLogger
-api-version: '1.18'
-author: Asintoto
-description: "A GrimAC addon to log players' violations to a database"
-softdepend: [GrimAC]
